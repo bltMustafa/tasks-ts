@@ -1,0 +1,33 @@
+.taskShow {
+  width: 400px;
+}
+
+.task-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.task-form h3 {
+  margin-top: -10px;
+  margin: 10px 0;
+}
+
+.task-form input,
+textarea {
+  padding: 5px;
+  border: 1px;
+  border-radius: 5px;
+}
+
+.task-form button {
+  margin: 10px 0;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.taskUpdate {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
